@@ -16,7 +16,7 @@ on:
         default: "https://something.url/uyou.deb"
         required: false
         type: string
-      decrypted_youtube_url:
+      decrypted_youtube_url:https://decrypt.day/fs/dl/s/nFdJrim6WWnxWf7Z-1hTH/com.google.ios.youtube_20.31.6_und3fined.ipa?X-Amz-Expires=1800&X-Amz-Date=20250809T173149Z&X-Amz-Security-Token=96c8fd3c7cf956b9.npRlEcaH_tW8KB58tPRQz.544007664&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5984fa5d025ac1fb47a47653444599a2%2F20250809%2Fauto%2F%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8febc4f0c752c30c7017c857fdd076bebe64f0a58bee4c0edaa4f95ecc188ea7
         description: "Direct URL to the decrypted YouTube ipa. The version of YouTube will be detected automatically."
         default: ""
         required: true
